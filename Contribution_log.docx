@@ -1,0 +1,48 @@
+AI Contribution Log
+
+Project: BFS vs DFS Performance Comparison
+
+1. Purpose of Using AI
+
+AI was used as a learning and coding-support tool to understand the assignment, prepare the program structure, explain the algorithms, and improve the documentation. The generated code was reviewed and tested by the student.
+
+2. AI Contribution Details
+
+Sr. No.          AI Assistance Used                         Student Action
+
+1                Explained the difference between            Understood that BFS uses a queue and DFS uses a stack.
+                 BFS and DFS.
+
+2                Suggested a binary-tree graph               Understood the graph structure and selected a search target.
+                 for testing.
+
+3                Helped prepare the BFS implementation.      Reviewed the code and understood queue operations.
+
+4                Helped prepare the DFS implementation.      Reviewed the code and understood stack operations.
+
+5                Suggested measuring performance             Ran the program and observed execution time and node count.
+                 through repeated runs. 
+
+6                Helped prepare the report and README.       Reviewed and edited the documentation.
+
+3. Student Responsibility
+
+I reviewed the AI-generated suggestions, understood the main logic, checked the program output, and organized the files for GitHub and Moodle submission.
+
+4. Learning Outcome
+
+Through this activity, I learned:
+
+How BFS and DFS algorithms work.
+
+How queues and stacks are used in search algorithms.
+
+How to measure execution time.
+
+How to count visited nodes.
+
+How to compare algorithm performance using actual results.
+
+5. Declaration
+
+I used AI assistance for learning, coding support, and documentation. I reviewed the generated content and take responsibility for understanding and submitting the work.
